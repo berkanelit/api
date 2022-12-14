@@ -1,19 +1,232 @@
+[
   {
     "id": 1,
     "name": "Berkan Başer",
     "username": "baser01",
     "email": "berkanreis@gmail.com",
+    "address": {
+      "street": "Cumhuriyet",
+      "suite": "Apt. 556",
+      "city": "Antalya",
+      "zipcode": "07500",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "5394024107",
+    "website": "berkanbaser01.com",
+    "company": {
+      "name": "Sentinel",
+      "catchPhrase": "İleri seviye Kod",
+      "bs": "Yapay zeka sistemleri"
+    }
   },
   {
     "id": 2,
     "name": "Ceren Doğu",
     "username": "ceren01",
     "email": "cerendou@gmail.com",
+    "address": {
+      "street": "Sivas caddesi",
+      "suite": "kardesler ap",
+      "city": "Sivas",
+      "zipcode": "58500",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "5434921446",
+    "website": "cerendou.net",
+    "company": {
+      "name": "hepsiburada",
+      "catchPhrase": "Hepimiz birimiz için",
+      "bs": "Market zinciri"
+    }
   },
   {
     "id": 3,
     "name": "Yusuf Yardımcı",
     "username": "yardc07",
     "email": "yususfbaskan@gmail.com",
+    "address": {
+      "street": "Veli Yılmaz Caddesi",
+      "suite": "76",
+      "city": "Antalya",
+      "zipcode": "07500",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "5324981398",
+    "website": "yardimcipsi.com",
+    "company": {
+      "name": "olumlu psikoloji",
+      "catchPhrase": "güler yüzler",
+      "bs": "gelecek için daima"
+    }
   },
-
+  {
+    "id": 4,
+    "name": "Ceyda Uyanık",
+    "username": "Ceuda002",
+    "email": "habertd@outlook.com",
+    "address": {
+      "street": "Atatürk caddesi",
+      "suite": "294",
+      "city": "Adana",
+      "zipcode": "1500",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "5549875634",
+    "website": "habertd.com",
+    "company": {
+      "name": "Haber Takvim",
+      "catchPhrase": "Doğru Haber ",
+      "bs": "Tarafsız Medya"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mutlu Yılmaz",
+    "username": "mutlu01",
+    "email": "mutluomrum@hotmail.com",
+    "address": {
+      "street": "Burdur Caddesi",
+      "suite": "14",
+      "city": "Burdur",
+      "zipcode": "15000",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "5356459312",
+    "website": "envanterordu.com",
+    "company": {
+      "name": "T.S.K Jandarma",
+      "catchPhrase": "Vatan Bölünmez",
+      "bs": "Güvenlik-Disiplin-Hazır"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Elmas Işık",
+    "username": "isikli0701",
+    "email": "isikli@gmail.com",
+    "address": {
+      "street": "Merkez Caddesi",
+      "suite": "344",
+      "city": "Mersin",
+      "zipcode": "43500",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "5335467512",
+    "website": "isiklarticaret.com",
+    "company": {
+      "name": "ISIKLAR Ticaret",
+      "catchPhrase": "Uygun fiyat uygun kalite",
+      "bs": "hedefler büyümektir"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Zübeyde Uyanık",
+    "username": "zubeyde01",
+    "email": "zubeydeas01@gmail.com",
+    "address": {
+      "street": "Cumhuriyet",
+      "suite": "182",
+      "city": "Antalya",
+      "zipcode": "07500",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "5359122299",
+    "website": "zubeydehotel.com",
+    "company": {
+      "name": "Kaya Turistlik A.Ş",
+      "catchPhrase": "otelimize bekleriz",
+      "bs": "rahatlık huzur ve ferahlama yeri"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mustafa Cerenler",
+    "username": "murtada02",
+    "email": "mustafa010403@outlook.com",
+    "address": {
+      "street": "Merkez Caddesi",
+      "suite": "12",
+      "city": "Muğla",
+      "zipcode": "45699",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "5324022214",
+    "website": "deneme.tk",
+    "company": {
+      "name": "Basel Boyacılık",
+      "catchPhrase": "Yeni ev yeni dünya",
+      "bs": "yeni dünyalar"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ayşe Başer",
+    "username": "ayseyrd12",
+    "email": "ayse01@gmail.com ",
+    "address": {
+      "street": "Aksu caddesi",
+      "suite": "333",
+      "city": "Antalya",
+      "zipcode": "7100",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "5531236534",
+    "website": "ayseyrdc010.net",
+    "company": {
+      "name": "İleri Kolej",
+      "catchPhrase": "Başarı anahtardır",
+      "bs": "İleriye bakan"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hatice Sönmez",
+    "username": "sonmez0102",
+    "email": "sonmezbakkal@outlook.com",
+    "address": {
+      "street": "hacı bayram caddesi",
+      "suite": "312",
+      "city": "Antalya",
+      "zipcode": "7500",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "5542347612",
+    "website": "haticeyrdc01.com",
+    "company": {
+      "name": "Sonmez Bakkal ",
+      "catchPhrase": "Ucuzluğun merkezi",
+      "bs": "kalite budur"
+    }
+  }
+]
