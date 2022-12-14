@@ -4,6 +4,18 @@
     "name": "Berkan Başer",
     "username": "baser01",
     "email": "berkanreis@gmail.com",
+  },
+  {
+    "id": 2,
+    "name": "Ceren Doğu",
+    "username": "ceren01",
+    "email": "cerendou@gmail.com",
+  },
+  {
+    "id": 3,
+    "name": "Yusuf Yardımcı",
+    "username": "yardc07",
+    "email": "yususfbaskan@gmail.com",
+  },
     
-  }
 ]
