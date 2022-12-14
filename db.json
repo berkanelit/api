@@ -182,51 +182,5 @@
       "catchPhrase": "Yeni ev yeni dünya",
       "bs": "yeni dünyalar"
     }
-  },
-  {
-    "id": 9,
-    "name": "Ayşe Başer",
-    "username": "ayseyrd12",
-    "email": "ayse01@gmail.com ",
-    "address": {
-      "street": "Aksu caddesi",
-      "suite": "333",
-      "city": "Antalya",
-      "zipcode": "7100",
-      "geo": {
-        "lat": "24.6463",
-        "lng": "-168.8889"
-      }
-    },
-    "phone": "5531236534",
-    "website": "ayseyrdc010.net",
-    "company": {
-      "name": "İleri Kolej",
-      "catchPhrase": "Başarı anahtardır",
-      "bs": "İleriye bakan"
-    }
-  },
-  {
-    "id": 10,
-    "name": "Hatice Sönmez",
-    "username": "sonmez0102",
-    "email": "sonmezbakkal@outlook.com",
-    "address": {
-      "street": "hacı bayram caddesi",
-      "suite": "312",
-      "city": "Antalya",
-      "zipcode": "7500",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
-    "phone": "5542347612",
-    "website": "haticeyrdc01.com",
-    "company": {
-      "name": "Sonmez Bakkal ",
-      "catchPhrase": "Ucuzluğun merkezi",
-      "bs": "kalite budur"
-    }
   }
 ]
